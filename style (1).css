@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#count{
+    border: 1px solid black;
+    width: 700px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+}
+#name{
+    color: green;
+}
+span{
+    color: blue;
+}
+#Intrest{
+    color: orangered;
+}
+#Skills{
+    color: maroon;
+}
+#Education{
+    color: blue;
+}
+#Contact{
+    color: rgb(158, 66, 158);
+}
+.section{
+    margin: 20px 0;
+}
+h2{
+    margin-bottom: 10px;
+}
